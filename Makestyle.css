@@ -1,0 +1,17 @@
+.hover-button {
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    border: 2px solid #3498db;
+    background-color: #3498db;
+    color: white;
+    border-radius: 5px;
+    transition: all 0.3s ease; /* Smooth transition for all properties */
+  }
+  
+  /* Button hover effect */
+  .hover-button:hover {
+    background-color: #2980b9; /* Darker background color */
+    transform: scale(1.1); /* Slightly larger size */
+  }
+  
